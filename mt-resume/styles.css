@@ -1,0 +1,70 @@
+.head-text {
+    text-align: center;
+    background-color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contact {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.contact ul {
+    list-style-type: none;
+}
+
+/* .contact {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.contact ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.contact li {
+    display: inline;
+    position: relative;
+}
+
+.contact li::after {
+    content: "•";
+    position: absolute;
+    right: -15px;
+} */
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    font-size: 30px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+p {
+    margin: 10px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.references {
+    text-align: center;
+}
+
+.references p {
+    font-size: 20px;
+}
+
+.portrait-img {
+    padding-top: 20px;
+}
